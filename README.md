@@ -1,19 +1,20 @@
-
-アクセスカウンター
-
-![Access Counter](https://profile-counter.glitch.me/CrossDarkrix/count.svg)
-
-Thank you Visit My Profile.
-
-適当にPythonのコードを書いています。
-(たまにHTMLとCSSいじってます)
-
 <div align="center">
+  
+<p>アクセスカウンター</p>
+
+<img src="https://profile-counter.glitch.me/CrossDarkrix/count.svg"><br />
+
+<p>Thank you Visit My Profile.</p>
+
+<p>適当にPythonのコードを書いています。<br />
+(たまにHTMLとCSSいじってます)</p><br />
+<p>[ 最近作ったものがこちら ]</p>
   <img width="150px" height="150px" alt="pyExtendTools" src="https://raw.githubusercontent.com/CrossDarkrix/PythonExtendExplorerTools/main/PyExtendToolsIcon.png"><br />
-  <a href="https://github.com/CrossDarkrix/PythonExtendExplorerTools">・PythonExtendExplorerTools</a><br /><br />
-  </div>
-  <div align="left" style="text-align: center;">
+  <a href="https://github.com/CrossDarkrix/PythonExtendExplorerTools">・PythonExtendExplorerTools</a><br /><br /><br />
+  <img src="https://raw.githubusercontent.com/CrossDarkrix/EarthQuakeInfomationTools/main/screenshots/EarthQuakeInfomationTool.png" width="400" height="250"><br />
   <a href="https://github.com/CrossDarkrix/EarthQuakeInfomationTools">・地震情報色分けツール</a><br /><br />
+  <img src="https://raw.githubusercontent.com/CrossDarkrix/ffmpeg-Recursive-Upscaling-tool/main/image/ffmpeg-upscaling.gif" width="400" height="250"><br />
   <a href="https://github.com/CrossDarkrix/ffmpeg-Recursive-Upscaling-tool">・ffmpegを使った再起的画像拡大ツール</a><br /><br />
-  <a href="https://github.com/CrossDarkrix/Pythonista3_pip_Configration_Tool">・Pythonista pip Configuration Tool</a><br /><br />
+  <img src="https://raw.githubusercontent.com/CrossDarkrix/Pythonista3_pip_Configration_Tool/main/images/pip-Terminal_Preview.png" width="400" height="250"><br />
+   <a href="https://github.com/CrossDarkrix/Pythonista3_pip_Configration_Tool">・Pythonista pip Configuration Tool</a><br /><br />
   </div>
