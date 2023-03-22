@@ -9,6 +9,8 @@
 <p>適当にPythonのコードを書いています。<br />
 (たまにHTMLとCSSいじってます)</p><br />
 <p>[ 最近作ったものがこちら ]</p>
+  <a href="https://github.com/CrossDarkrix"><img width="150px" height="150px" alt="ArtifacterBuildCardImageGenerator" src="https://raw.githubusercontent.com/CrossDarkrix/ArtifacterBuildCardImageGenerator/master/Images/ArtifacterIcon.png"></a><br />
+  <a href="https://github.com/CrossDarkrix/ArtifacterBuildCardImageGenerator">・ArtifacterBuildCardImageGenerator</a><br /><br /><br />
   <a href="https://github.com/CrossDarkrix"><img width="150px" height="150px" alt="EarthquakeInfomationTools" src="https://raw.githubusercontent.com/CrossDarkrix/EarthquakeInfomationToolsUi/main/images/eqinfoicon.png"></a><br />
   <a href="https://github.com/CrossDarkrix/EarthquakeInfomationToolsUi">・EarthquakeInfomationToolsUi</a><br /><br /><br />
   <a href="https://github.com/CrossDarkrix"><img width="150px" height="150px" alt="NightcoreCreater" src="https://raw.githubusercontent.com/CrossDarkrix/NightcoreCreater/main/image/NightcoreCreaterIcon.png"></a><br />
