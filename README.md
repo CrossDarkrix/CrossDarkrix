@@ -37,8 +37,6 @@ Windows の Java VM で Android アプリをネイティブ実行する win.apk 
 - [sshdog-android-Termux](https://github.com/CrossDarkrix/sshdog-android-Termux) — Termux で動く SSH サーバーのパッチ版
 - Minecraft Bedrock アドオン (Angel Block / Logistics Node 系ほか) を CurseForge で公開中
 
-## 数字で見る
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CrossDarkrix&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CrossDarkrix&layout=pie&theme=tokyonight)
 
