@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="555px" height="555px" alt="CrossDarkrix" src="https://raw.githubusercontent.com/CrossDarkrix/CrossDarkrix/main/CrossDarkrix.png">
+	<img width="200px" height="200px" alt="CrossDarkrix" src="https://raw.githubusercontent.com/CrossDarkrix/CrossDarkrix/main/CrossDarkrix.png">
 </div>
 # CrossDarkrix
 
