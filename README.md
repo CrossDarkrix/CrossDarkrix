@@ -1,3 +1,6 @@
+<div align="center">
+	<img width="555px" height="555px" alt="CrossDarkrix" src="https://raw.githubusercontent.com/CrossDarkrix/CrossDarkrix/main/CrossDarkrix.png">
+</div>
 # CrossDarkrix
 
 中学時代にブラクラから HTML を学び、高校生の時に趣味で始めた Python を独学で学び15年。Pythonista 3 関連から Artifacter for Windows を始め、iLauncher など数々のソフトやアプリを個人で開発しています。
